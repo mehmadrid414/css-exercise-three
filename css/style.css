@@ -41,5 +41,6 @@ nav {
 }
 
 .location {
-  background-color: #999999;
+  width: 420px;
+  border-bottom: .50px solid #000;
 }
