@@ -58,3 +58,17 @@ h1 {
   display: block;
   width: 80% auto;
 }
+
+.arrow {
+  box-sizing: border-box;
+  display: inline;
+  float: right;
+  margin-right: 15px;
+  position: relative;
+  top: -32px;
+}
+
+.arrow-left {
+  background-color: #000;
+  padding: 7px;
+}
