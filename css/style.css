@@ -64,7 +64,7 @@ h1 {
   display: inline;
   float: right;
   margin-right: 15px;
-  position: relative;
+  position: fixed;
   top: -32px;
 }
 
