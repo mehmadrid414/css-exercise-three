@@ -65,8 +65,8 @@ h1 {
   display: inline;
   float: right;
   margin-right: 15px;
-  position: fixed;
-  top: 32px;
+  position: relative;
+  top: -32px;
 }
 
 .arrow-left {
