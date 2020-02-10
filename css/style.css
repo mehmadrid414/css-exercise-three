@@ -39,6 +39,7 @@ nav {
   padding-bottom: 0px;
   border: 0 0 20px 15px;
   width: 500px;
+  position: center;
 }
 
 h1 {
@@ -49,6 +50,7 @@ h1 {
 .location {
   width: 500px;
   border-bottom: .50px solid #000;
+  position: center;
 }
 
 .location :hover {
