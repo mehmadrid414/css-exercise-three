@@ -16,7 +16,6 @@ section {
   box-sizing: border-box;
   background-color: #fff;
   border-bottom: 1px solid #000;
-  padding-bottom: 0px;
   top: 1px;
   margin: 7%;
   width: 500px;
@@ -33,7 +32,6 @@ nav {
 .restaurant-list {
   box-sizing: border-box;
   padding-top: 35px;
-  padding-bottom: 0px;
   border-width: 20px 15px 20px 15px;
   width: 500px;
 }
